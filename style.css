@@ -1,0 +1,113 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+   margin: 0;
+   padding: 0;
+}
+
+.logo{
+    width: 120px;
+}
+
+.img-bg1{
+    width: 400px;
+}
+
+.c{
+    text-align: center;
+    margin: 7px 0px 7px 0px;
+   
+}
+
+
+.icon{
+    width: 60px;
+    height: 70px;
+}
+
+.header{
+    height: 380px;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.row{
+    overflow: hidden;
+}
+
+.cba{
+   
+    box-shadow: -1px -1px 4px 1px rgba(32, 223, 204, 0.5);
+    background-color: rgb(229, 249, 242);
+}
+
+.cba:hover{
+    box-shadow: -1px 5px 10px 1px rgb(112, 129, 135);
+    background-color: rgb(239, 241, 241);
+}
+
+.sec-one{
+    max-height: 400px;
+    width: 100%;
+}
+
+.cbb{
+    text-align: center;
+    height: 260px;
+}
+
+.cbb img{
+   width: 200px;
+}
+
+
+.c-b{
+   
+    box-shadow: -1px -1px 4px 1px white ;
+    background-color:white;
+}
+
+.c-b:hover{
+    box-shadow: -1px 5px 10px 1px rgb(112, 129, 135);
+    background-color: rgb(239, 241, 241);
+}
+
+.c-footer{
+    text-align: center;
+}
+
+.onc{
+    font-weight: 600;
+}
+.testm{
+    font-weight: 700;
+}
+.profile-img{
+    width: 110px;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    background-color: rgb(29, 4, 53);
+    height: 500px;
+
+}
+
+.fh{
+    font-weight: 600;
+}
+.col .nav-link{
+    color: #fff;
+} 
+
+.col .nav-link:hover{
+    color: #ee2020;
+}
+
+.navbar-nav .nav-link:hover{
+    color: #ee2020 !important;
+}
+
